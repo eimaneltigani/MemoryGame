@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Week3_DOM_Traversal"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "MemoryGame"
+	}
+}
